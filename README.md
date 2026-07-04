@@ -20,7 +20,7 @@ I learn best by building projects, experimenting, and exploring new ideas. Shari
 ## 🧸 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,git,github,vscode,azure,nodejs" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,git,github,vscode,azure,nodejs,fastapi,react,tailwind,pytorch,tensorflow" />
 </p>
 
 ---
