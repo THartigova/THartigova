@@ -55,7 +55,7 @@ I learn best by building projects, experimenting, and exploring new ideas. Shari
 
 
 <p align="left">
-  <img src="https://pin.it/5HWhfmySI" />
+  <img src="https://pin.it/1b8x7g6uD" />
 </p>
 
 
