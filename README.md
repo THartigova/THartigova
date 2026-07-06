@@ -52,6 +52,13 @@ I learn best by building projects, experimenting, and exploring new ideas. Shari
 ---
 
 > **Always curious. Always building. Always growing. 🌱**
+
+
+<p align="left">
+  <img src="https://pin.it/5HWhfmySI" />
+</p>
+
+
 <!--
 **THartigova/THartigova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
